@@ -1,3 +1,4 @@
 baseURL = "http://violentnoise.uk/"
 languageCode = "en-us"
 title = "VN's Hugo Site"
+theme = "hugo-casper3"
